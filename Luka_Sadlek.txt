@@ -1,0 +1,7 @@
+KOMANDE
+
+Ls
+Cd desktop
+Cd zabod
+Git init
+Echo KOMANDE > Luka_Sadlek.txt
